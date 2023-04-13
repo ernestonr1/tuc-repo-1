@@ -1,0 +1,31 @@
+Projektmapp <-- innehåller hela projektet.
+
+Projektmappen gör man till en git repository.
+
+github.com är en plats där man kan lagra sin repository centralt
+så att många kan arbeta på samma projekt.
+
+Repository kallas ofta för repo.
+
+Git är ett verktyg som kan hålla reda på olika versioner av en mappstruktur.
+Den används lokalt på våra datorer.
+
+Github.com är en tjänst där man kan lagra sina repos på nätet.
+
+Commit: milstolpe; en version av projektet som sparas.
+Commits ska man skapa med jämna mellanrum.
+
+clone: ladda ner repo från github.com
+
+push: ladda upp repo till github.com
+
+
+
+git init
+git commit -m "first commit"
+//git branch -M main
+git remote add origin https://github.com/ernestonr1/tuc-repo-1.git
+git push -u origin main
+
+
+
