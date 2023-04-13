@@ -1,0 +1,3 @@
+Den här filen hamnar i den nya mappen.
+
+Den här ändringen ska också med.
