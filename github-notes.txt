@@ -1,3 +1,5 @@
+Git: Versionshanteringssystem
+
 Projektmapp <-- innehåller hela projektet.
 
 Projektmappen gör man till en git repository.
