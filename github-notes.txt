@@ -27,5 +27,6 @@ git commit -m "first commit"
 git remote add origin https://github.com/ernestonr1/tuc-repo-1.git
 git push -u origin main
 
-
+Ladda ner en repo från github.com
+git clone adressen-till-repon
 
