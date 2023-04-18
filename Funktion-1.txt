@@ -1,1 +1,2 @@
-Funktion 1
+Funktion 1: extra info på en rad som redan finns.
+En ny rad som inte fanns i filen tidigare.
